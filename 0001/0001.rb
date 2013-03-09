@@ -1,0 +1,1 @@
+->(){Array.new(10).map{gets.to_i}}.call.sort.reverse[0..2].each{|v|p v}
